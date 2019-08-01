@@ -1,0 +1,12 @@
+.btn-airbnb {
+  text-decoration: none;
+  background: #fc5f5d;
+  padding: 10px 18px;
+  border-radius: 4px;
+  color: white;
+  letter-spacing: 1px;
+}
+
+.btn-airbnb:hover {
+  background: #cc4c4a;
+}
